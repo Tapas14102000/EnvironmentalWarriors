@@ -5,9 +5,9 @@
 const imgno=7;
 // Available Level
 const levels = {
-  easy: 8,
-  medium: 5,
-  hard: 3
+  easy: 20,
+  medium: 15,
+  hard: 10
 };
 
 // To change level
