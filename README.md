@@ -10,6 +10,6 @@ The site is live at :
 
 Scan it to access the site:
 
-    ![image](https://user-images.githubusercontent.com/53347922/163666732-17a6c617-6867-467d-92cc-f3b27ea5b327.png)
+![image](https://user-images.githubusercontent.com/53347922/163666732-17a6c617-6867-467d-92cc-f3b27ea5b327.png)
 
 
