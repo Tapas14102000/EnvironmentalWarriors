@@ -10,4 +10,5 @@ The site is live at :
 
 Scan it to access the site:
 
-    ![image](https://user-images.githubusercontent.com/53347922/163666679-f121382b-b14a-4a58-8db5-c234a88c2f41.png)
+    ![image](https://user-images.githubusercontent.com/53347922/163666700-8cd7d3c5-ae83-4cfb-a090-7316d0809501.png)
+
